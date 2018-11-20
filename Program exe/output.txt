@@ -1,0 +1,32 @@
+read, keyword
+x, Identifier
+;, special symbol
+if, keyword
+0, number
+<, special symbol
+x, Identifier
+then, keyword
+fact, Identifier
+:=, assign
+1, number
+;, special symbol
+repeat, keyword
+fact, Identifier
+:=, assign
+fact, Identifier
+*, special symbol
+x, Identifier
+;, special symbol
+x, Identifier
+:=, assign
+x, Identifier
+-, special symbol
+1, number
+until, keyword
+x, Identifier
+=, special symbol
+0, number
+;, special symbol
+write, keyword
+fact, Identifier
+end, keyword
